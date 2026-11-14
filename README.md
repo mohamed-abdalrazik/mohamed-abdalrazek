@@ -2,22 +2,26 @@
 
 <h3 align="center">Programming Student | Web Developer | PHP & Laravel Developer</h3>
 
+<p align="center">
+I'm a Programming student at WE School for Applied Technology, passionate about Web Development, Software Engineering, and Cyber Security.
+</p>
+
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 - 🎓 Programming Student at WE School for Applied Technology
-- 💻 Passionate about Web Development
-- 🌱 Currently learning Laravel & PHP
+- 💻 Web Developer
+- 🌱 Currently Learning Laravel & Advanced PHP
 - 🎯 Goal: Study Computer Science in Europe
-- 🚀 Looking for Freelance Opportunities
+- 💼 Open to Freelance Opportunities
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Bootstrap
 - PHP
@@ -28,7 +32,7 @@
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 - 📧 Email: xchkvnjmn@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/mohamed-abdalrazik-b62137424/
