@@ -31,30 +31,9 @@
 
 # 🛠 Tech Stack
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=php"/>
-
-<img src="https://skillicons.dev/icons?i=laravel"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,git,github,vscode" />
 </p>
-
 ---
 
 # 📊 GitHub Stats
